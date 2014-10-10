@@ -1,0 +1,2 @@
+21.
+	El interprete interactivo ejecuta isntruccion por instrucción mientras que el interprete de Ruby lo hace tomando el archivo como un programa completo.
