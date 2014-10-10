@@ -1,2 +1,5 @@
 21.
 	El interprete interactivo ejecuta isntruccion por instrucción mientras que el interprete de Ruby lo hace tomando el archivo como un programa completo.
+
+27.
+	El interprete interactivo ejecuta instrucción a instrucción. PRY te permite ejecutar tu programa entero.
